@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/10ac2956-2785-4f6e-9e3e-1f8317f0fabd">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/9a174a60-3c7a-43a7-abba-fea9b802eb14">
+    <img alt="logo" src="https://github.com/user-attachments/assets/9a174a60-3c7a-43a7-abba-fea9b802eb14">
+  </picture>
+</p>
 
 
 # Introduction
