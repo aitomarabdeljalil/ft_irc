@@ -1,10 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/recursive-beast/ft_irc/assets/41545690/7e7fab14-ace3-4b81-9c67-2d05b0c8a4df">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/recursive-beast/ft_irc/assets/41545690/89589402-5e08-42e8-b22b-b24d1f4d55cc">
-    <img alt="logo" src="https://github.com/recursive-beast/ft_irc/assets/41545690/89589402-5e08-42e8-b22b-b24d1f4d55cc">
-  </picture>
-</p>
+
 
 # Introduction
 The project implements a server that adheres to the Internet Relay Chat (IRC) protocol **from scratch**,
@@ -40,7 +34,7 @@ The server was built using the following technologies:
 1) clone the repo and go into the folder:
 
 ```
-git clone git@github.com:recursive-beast/ft_irc.git
+git clone git@github.com:aitomarabdeljalil/ft_irc.git
 cd ft_irc
 ```
 
